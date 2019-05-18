@@ -72,13 +72,15 @@ project {
 }
 
 #ptitle {
-    text-align: left;
+    text-align: center;
     color: #fff;
     background: #4aaaa5;
     overflow: auto;
-    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-top: 125px;
     width: 100%;
+    z-index: 5;
 }
 
 /* to center ABOUT ME: http://www.tipue.com/blog/center-a-div/ */
